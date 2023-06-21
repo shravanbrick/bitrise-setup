@@ -20,7 +20,6 @@
     "moment": "^2.29.4",
     "react": "18.2.0",
     "react-native": "^0.71.7",
-    "react-native-code-push": "^8.0.2",
     "react-native-customui": "^2.2.3",
     "react-native-gesture-handler": "^2.10.0",
     "react-native-haptic-feedback": "^2.0.3",
